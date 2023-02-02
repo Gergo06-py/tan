@@ -61,7 +61,7 @@ A collapse hatására a táblázat cellái között megszűnik az üres hely.
 Legyen egy táblázat:
 
 ```html
-<table>
+<table class="table">
   <tr>
      <th>#</th>
      <th>Név</th>
