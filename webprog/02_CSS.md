@@ -33,7 +33,7 @@ I. Megekeresi az egyező deklarációkat és alkalmazza.
 
 II. Második szinten a böngésző sorrendet állít fel fontosság és az eredet alapján:
 
-1. böngézső stílus
+1. böngésző stílus
 2. a felhasználó normál stílusai
 3. a fejlesztő normál stílusai
 4. a fejlesztő fontos stílusai
