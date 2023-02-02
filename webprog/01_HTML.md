@@ -20,7 +20,7 @@ A globális attribútmok az összes HTML elemhez hozzárendelhetők.
 | hidden | Megmondja, hogy egy elem még nem, vagy már nem releváns |
 | id | Egyedi azonosító egy elem számára |
 | lang | Beállítható az elem tartalmának nyelve |
-| spellcheck |  Az elmnek kell-e ellenőrizni a nyeltanát |
+| spellcheck |  Az elmnek kell-e ellenőrizni a nyelvtanát |
 | style | Inline CSS |
 | title | Extra információ az elem számára |
 | translate | Egy elem tartalmát le kell fordítani, vagy nem. |
