@@ -25,7 +25,7 @@ A stílusmeghatározásoknál fontosnak jelölhetünk egy-egy beállított tulaj
 }
 ```
 
-Ez felülbírálhatja a mástól származó beállítáoka.
+Ez felülbírálhatja a mástól származó beállításokat.
 
 De lássuk hogyan jár el a böngésző, milyen sorrendet állít ha több stílusmeghatározással találkozik:
 
